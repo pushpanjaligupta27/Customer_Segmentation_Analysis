@@ -1,4 +1,4 @@
-# Customer-Segmentation-Analysis
+## Customer-Segmentation-Analysis
 
 The purpose of this project is to conduct a Customer Segmentation Analysis for Istanbul Market by analyzing data of various shopping malls. Customer segmentation is performed by developing a RFM Model. RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous shopping behaviour. The analysis will help in determining which customers segments should be targeted in order to enhance sales revenue. 
 
