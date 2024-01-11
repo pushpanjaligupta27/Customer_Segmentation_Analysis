@@ -4,5 +4,6 @@ The purpose of this project is to conduct a Customer Segmentation Analysis for I
 
 Dashboards and Report for Customer Segmentation is developed using Power BI, insights is derived and suggestions are given on how to increase the revenue.      
 
+### Dataset
 This dataset contains shopping information from 10 different shopping malls between 2021 and 2023. Information spread over various age groups and genders to provide a 
 comprehensive view of shopping habits in Istanbul. The dataset includes essential information such as invoice numbers, customer IDs, age, gender, payment methods, product categories, quantity, price, order dates, and shopping mall locations. 
